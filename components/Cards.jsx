@@ -14,7 +14,7 @@ const Cards = () => {
               </div>
               <div className="cardText py-7 sm:py-0 w-[300px] sm:[380px]">
                 <h2 className='text-2xl sm:text-3xl py-2 font-semibold'>Global Mastercard</h2>
-                <p className='text-gray-600 text-sm sm:text-base'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur magnam saepe corrupti.</p>
+                <p className='text-gray-600 text-sm sm:text-base'>Pay worldwide and make hassle free payments in any country with your all new Global Mastercard.</p>
                 <button className='downloadBtn bg-blue-600 border-none'> 
                     <AiFillApple className='text-white h-5 w-5' />
                     <AiFillAndroid className='text-white h-5 w-5' />
@@ -29,7 +29,7 @@ const Cards = () => {
               </div>
               <div className="cardText py-7 sm:py-0 w-[300px] sm:[380px]">
                 <h2 className='text-2xl sm:text-3xl py-2 font-semibold'>Electronic Mastercard</h2>
-                <p className='text-gray-600 text-sm sm:text-base text-left'>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aspernatur magnam saepe corrupti.</p>
+                <p className='text-gray-600 text-sm sm:text-base text-left'>Buying anything online from any country is now easier than ever with our all new Electronic Mastercard.</p>
                 <button className='downloadBtn bg-blue-600 border-none'> 
                     <AiFillApple className='text-white h-5 w-5' />
                     <AiFillAndroid className='text-white h-5 w-5' />
