@@ -9,7 +9,7 @@ const Cards = () => {
     <div id="cards" className='max-w-7xl mx-auto bg-[#f2f8ff] px-10 sm:px-20 py-16 pb-5 my-16'>
         <div>
           <div className="top1 flex sm:items-center justify-around flex-col lg:flex-row py-5 sm:py-12">
-              <div className="cardBg1 w-9/12 md:w-[25rem] relative rounded-lg  bg-[#33a8ff] py-8 sm:py-12">
+              <div className="cardBg1 w-9/12 md:w-[25rem] relative rounded-lg  bg-[#c1d5ef] py-8 sm:py-12">
                  <Image src={cardImage} className='ml-20 mt-2 drop-shadow-2xl w-[32rem] md:w-[25rem]' />
               </div>
               <div className="cardText py-7 sm:py-0 w-[300px] sm:[380px]">
@@ -24,7 +24,7 @@ const Cards = () => {
           </div>
           
           <div className="top1 flex sm:items-center justify-around flex-col lg:flex-row-reverse py-5 sm:py-12">
-              <div className="cardBg1 w-9/12 md:w-[25rem] relative rounded-lg  bg-[#33a8ff] py-8 sm:py-12 ml-16">
+              <div className="cardBg1 w-9/12 md:w-[25rem] relative rounded-lg  bg-[#c1d5ef] py-8 sm:py-12 ml-16">
                  <Image src={cardImage2} className='-ml-20 mt-2 drop-shadow-2xl w-[32rem] md:w-[25rem]' />
               </div>
               <div className="cardText py-7 sm:py-0 w-[300px] sm:[380px]">
